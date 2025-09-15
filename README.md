@@ -19,7 +19,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Master’s in Computer Science @ California State University, San Bernardino (Expected May 2025)  
+- 🎓 Master’s in Computer Science @ California State University, San Bernardino  
 - 📬 Email: **gorrepatiabhiram6@gmail.com**  
 - 🧠 I love turning complex systems into automated, scalable, and resilient infrastructure  
 - 🧰 Skilled in cloud, DevOps, containerization, IaC, CI/CD, and observability stacks  
