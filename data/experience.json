@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Software Engineer",
+    "company": "Awesome Co",
+    "start": "Jan 2023",
+    "end": "Present",
+    "summary": "Building performant web apps and APIs.",
+    "highlights": [
+      "Led migration to modern front-end stack",
+      "Improved page performance to 95+ Lighthouse scores",
+      "Mentored junior developers"
+    ]
+  },
+  {
+    "role": "Developer Intern",
+    "company": "Startup XYZ",
+    "start": "Jun 2022",
+    "end": "Dec 2022",
+    "summary": "Shipped features across the stack and learned a ton.",
+    "highlights": [
+      "Implemented CI workflow to cut deploy times by 30%",
+      "Wrote data ingestion scripts handling 1M+ rows"
+    ]
+  }
+]

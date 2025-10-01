@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Portfolio</title>
+    <meta name="description" content="Personal portfolio: projects, experience, and contact." />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🧰</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="#">My Portfolio</a>
+        <nav class="nav">
+          <a href="#about">About</a>
+          <a href="#projects">Projects</a>
+          <a href="#experience">Experience</a>
+          <a href="#contact">Contact</a>
+        </nav>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" title="Toggle theme">
+          <span class="theme-toggle__icon" aria-hidden="true">🌙</span>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section id="about" class="section section--hero">
+        <div class="container">
+          <h1 class="hero-title">Hi, I’m <span class="accent">Your Name</span></h1>
+          <p class="hero-subtitle">A short tagline about what you do: developer, designer, builder.</p>
+        </div>
+      </section>
+
+      <section id="projects" class="section">
+        <div class="container">
+          <div class="section-header">
+            <h2>Projects</h2>
+            <p>Selected work. Auto-loaded from <code>data/projects.json</code>.</p>
+          </div>
+          <div id="projects-list" class="grid cards"></div>
+        </div>
+      </section>
+
+      <section id="experience" class="section">
+        <div class="container">
+          <div class="section-header">
+            <h2>Experience</h2>
+            <p>Roles and impact. Auto-loaded from <code>data/experience.json</code>.</p>
+          </div>
+          <div id="experience-list" class="stack"></div>
+        </div>
+      </section>
+
+      <section id="contact" class="section section--contact">
+        <div class="container">
+          <div class="section-header">
+            <h2>Contact</h2>
+            <p>Want to collaborate or have an opportunity?</p>
+          </div>
+          <div class="contact-cta">
+            <a class="button" href="mailto:you@example.com">Email me</a>
+            <a class="button button--secondary" href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a class="button button--secondary" href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© <span id="year"></span> Your Name. Built with HTML, CSS, JS.</p>
+      </div>
+    </footer>
+
+    <script src="./assets/js/main.js" defer></script>
+  </body>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</html>
