@@ -1,127 +1,95 @@
 <h1 align="center">👋 Hello, I'm <span style="color:#00BFFF">Abhiram Gorrepati</span></h1>
-<h3 align="center">🚀 DevOps & Cloud Engineer | AWS Certified | Infrastructure as Code Enthusiast</h3>
+<h3 align="center">🚀 DevOps & Cloud Engineer | AWS, Azure, GCP | IaC Enthusiast | Infrastructure Automation</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Cloud+solutions+with+AWS;IaC+automation+with+Terraform+and+Jenkins;Driven+by+DevOps+best+practices+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiram700&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhiram700&theme=algolia&no-frame=true&row=2&column=3" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Cloud+solutions+with+AWS,+Azure,+GCP;IaC+automation+with+Terraform,+CloudFormation;Driven+by+DevOps+best+practices+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Master’s in Computer Science @ California State University, San Bernardino  
-- 📬 Email: **gorrepatiabhiram6@gmail.com**  
-- 🧠 I love turning complex systems into automated, scalable, and resilient infrastructure  
-- 🧰 Skilled in cloud, DevOps, containerization, IaC, CI/CD, and observability stacks  
-- 📝 Sharing DevOps insights on [LinkedIn](https://linkedin.com/in/abhiram-gorrepati)
+- 🎓 Master's in Computer Science, California State University, San Bernardino (2025)
+- 🏢 DevOps Cloud Engineer at Accenture (2025–Current)
+- 🏢 DevOps Engineer at IBM (2021–2023)
+- 💼 3+ years of experience automating infrastructure, optimizing CI/CD pipelines, and managing AWS, Azure, and GCP ecosystems
+- ⚡ Passionate about bridging development and operations to deliver secure, resilient, and scalable infrastructure
+- 🏆 Achieved compliance for cloud solutions with SOC 2, ISO 27001, HIPAA
+- 📫 Email: **gorrepatiabhiram6@gmail.com**
+- 💡 Sharing DevOps insights and automation tips on [LinkedIn](https://linkedin.com/in/abhiram-gorrepati)
 
 ---
 
-### 🛠️ Complete Tech Stack for Cloud & DevOps Engineers
+### 🛠️ Technical Skills
 
-**🖥️ Operating Systems:**  
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
-
-**💻 Programming & Scripting:**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java) ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)  
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash) ![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml)
-
-**☁️ Cloud Platforms & Services:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  
-Core: EC2, S3, RDS, VPC, IAM, CloudWatch, Route 53, EBS, SQS, SNS  
-Serverless: Lambda, API Gateway, Fargate, ECS, EKS  
-DevOps: CodePipeline, CodeDeploy, CodeCommit, CloudFormation  
-DB: DynamoDB, Aurora, ElastiCache  
-Security: KMS, Cognito, Secrets Manager  
-Monitoring: CloudTrail, Athena, X-Ray
-
-**⚙️ DevOps & Automation:**  
-Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI, CircleCI
-
-**📦 Containers & Orchestration:**  
-Docker, Podman, Kubernetes, Helm
-
-**📈 Monitoring & Observability:**  
-Prometheus, Grafana, ELK Stack, Splunk, AWS CloudWatch
-
-**🔐 Security & Identity:**  
-IAM, KMS, Secrets Manager
-
-**🛢️ Databases:**  
-MySQL, PostgreSQL, DynamoDB
+- **Cloud Platforms:**  
+  AWS (EC2, S3, Lambda, RDS, VPC, CloudFront, Route 53), Azure, GCP  
+- **CI/CD Tools:**  
+  Jenkins, GitHub Actions, GitLab CI, Maven, Gradle  
+- **Infrastructure as Code:**  
+  Terraform, AWS CloudFormation  
+- **Containers & Orchestration:**  
+  Docker, Kubernetes (EKS, AKS), Helm  
+- **Scripting & Automation:**  
+  Python, Bash, PowerShell  
+- **Monitoring & Logging:**  
+  Prometheus, Grafana, ELK Stack, AWS CloudWatch  
+- **Security & Networking:**  
+  IAM, VPC, ELB/ALB, WAF, CloudTrail, GuardDuty  
+- **Version Control & Collaboration:**  
+  Git, Bitbucket, GitFlow, Jira, Confluence  
+- **Testing & Release:**  
+  Selenium, JUnit  
+- **Server & OS:**  
+  Linux (RHEL, Ubuntu), Windows Server, Nginx, Apache, Tomcat  
+- **Database & Storage:**  
+  MySQL, PostgreSQL, DynamoDB, MongoDB, S3, EBS
 
 ---
 
 ### 🏆 Certifications
 
-- 🥇 AWS Certified Solutions Architect – Associate  
-- 🥇 AWS Certified Cloud Practitioner  
-- 🥇 AWS Cloud Virtual Internship – EduSkills  
-- 🥇 Microsoft Azure Fundamentals  
-- 🥇 Python Programming – Kaggle
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- Microsoft Azure Fundamentals
+- Python Programming – Kaggle
+
+---
+
+### 💼 Professional Experience
+
+**DevOps Cloud Engineer, Accenture, USA (2025–Present)**
+- Architected, automated, and managed multi-region AWS infrastructure for enterprise clients (99.99% uptime)
+- Reduced release cycles from days to hours by building CI/CD pipelines with Jenkins, GitHub Actions, and Terraform
+- Deployed containerized microservices (Docker/K8s), integrated Helm charts, and scaled transaction loads by 45%
+- Implemented monitoring with Prometheus, Grafana, and CloudWatch; reduced MTTR by 35%
+- Automated workflows with Ansible, Python, and grew team DevOps skills across 6 global clients
+
+**DevOps Engineer, IBM, India (2021–2023)**
+- Engineered CI/CD pipelines with Jenkins, Maven, Ansible, SonarQube, Nexus
+- Migrated legacy apps to AWS/Azure hybrid, improved scalability and disaster recovery
+- Built highly available Docker/Kubernetes microservices and standardized IaC provisioning
+- Enhanced issue resolution with ELK Stack, PagerDuty; improved security with AWS Inspector, Nessus
+- Supported Agile and DevSecOps initiatives, improving delivery predictability by 25%
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 📡 Real-Time Data Processing Pipeline on AWS
-- Built a real-time Kinesis → Lambda → DynamoDB pipeline for instant insights and 40% lower latency  
-- Archived raw logs in S3; monitored via CloudWatch; alerts via SNS
-
-#### 🌐 Multi-Tier Web Application Deployment
-- 3-tier web app on EC2, RDS, and S3; auto-scaled with ALB  
-- CloudFormation powered the entire stack with 35% improved consistency
-
-#### 🔁 CI/CD Pipeline with Jenkins & Docker
-- Jenkins + GitHub + Docker + AWS ECR + EKS enabled robust, end-to-end delivery pipelines  
-- Reduced release cycle time by 60% through automated builds, tests, and deployments  
-- Integrated Slack notifications and auto-rollback mechanisms to handle deployment failures
-
-#### ⚙️ Infrastructure Automation with Terraform and Kubernetes
-- Provisioned cloud infrastructure using Terraform including EC2, EKS, VPCs, and IAM roles  
-- Deployed Kubernetes microservices using Helm charts with standardized configurations  
-- Enhanced monitoring with Prometheus and Grafana; improved infrastructure consistency by 45%
-
-#### 📱 Mobile App Development – Cat Math
-- Hosted backend on AWS EC2 and S3, optimized to handle 10,000+ daily users  
-- Integrated CloudWatch with SNS for real-time monitoring and alerting  
-- Increased engagement by 25% with improved responsiveness and reliability
-
-#### 🔄 Blue-Green Deployment Strategy on AWS
-- Implemented blue-green deployment using EC2, ALB, and CloudWatch to eliminate downtime during updates  
-- Automated routing using ALB Target Groups and health checks, enhancing availability by 30%  
-- Streamlined releases with reduced risk, ensuring seamless production transitions
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiram700&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram700&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram700&theme=tokyonight" />
-</p>
+- **Multi-region AWS Infrastructure:** Architected high-availability, auto-scaling, and compliant cloud infrastructure for global clients  
+- **End-to-End CI/CD Automation:** Designed pipelines with Jenkins, Terraform, Docker/K8s, integrated automated testing  
+- **Monitoring & Alerting:** Real-time visibility via Prometheus, Grafana, ELK, and AWS tools  
+- **Migration & Cloud Modernization:** Transitioned on-premise enterprise apps to cloud-native with disaster recovery  
+- **Security Automation:** Implemented IAM, SSO, CloudTrail, and cost controls with Trusted Advisor
 
 ---
 
 ### 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/abhiram-gorrepati" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhiram-blue?style=flat&logo=linkedin" />
-</a>
-<a href="https://www.youtube.com/c/awsphere" target="_blank">
-  <img src="https://img.shields.io/badge/Youtube-AWSphere-red?style=flat&logo=youtube" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abhiram-gorrepati)
+[![YouTube](https://img.shields.io/badge/Youtube-AWSphere-red?style=flat&logo=youtube)](https://www.youtube.com/c/awsphere)
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cloud Engineering Animation" width="100%" />
+<!-- Keep your GitHub stats, profile views, and badges as in your current README -->
+
