@@ -15,7 +15,7 @@
 - 💼 3+ years of experience automating infrastructure, optimizing CI/CD pipelines, and managing AWS, Azure, and GCP ecosystems
 - ⚡ Passionate about bridging development and operations to deliver secure, resilient, and scalable infrastructure
 - 🏆 Achieved compliance for cloud solutions with SOC 2, ISO 27001, HIPAA
-- 📫 Email: **gorrepatiabhiram6@gmail.com**
+- 📫 Email: **abhiram@myworkmails.com**
 - 💡 Sharing DevOps insights and automation tips on [LinkedIn](https://linkedin.com/in/abhiram-gorrepati)
 
 ---
