@@ -1,3 +1,73 @@
+# Portfolio
+
+A clean, responsive static portfolio with About, Projects, Experience, and Contact. Projects and experience are loaded from JSON.
+
+## Customize
+
+- Edit `index.html` for your name, tagline, and links.
+- Update `data/projects.json` and `data/experience.json` with your content.
+- Adjust styles in `assets/css/style.css`.
+
+## Local Preview
+
+Fetching JSON requires serving from a local web server (not `file://`). Options:
+
+```bash
+# Python 3
+python3 -m http.server 5173
+# Then open http://localhost:5173
+```
+
+Or use an editor extension like “Live Server”.
+
+## Deploy
+
+### GitHub Pages (from root)
+1. Push this folder to a GitHub repository.
+2. In repo Settings → Pages, set Source to “Deploy from a branch”, branch `main` (or default), folder `/`.
+3. Wait for the page to build; your site will be at the URL GitHub provides.
+
+### Netlify
+1. Create a new site from Git in Netlify.
+2. Select your repo. Build command: none. Publish directory: `/`.
+3. Deploy. Optionally add a custom domain.
+
+### Vercel
+1. New Project → Import your GitHub repo.
+2. Framework preset: “Other”. Build command: none. Output directory: `/`.
+3. Deploy. Optionally add a custom domain.
+
+## Data Schemas
+
+`data/projects.json` (array):
+
+```json
+{
+  "title": "string",
+  "description": "string",
+  "tech": ["string", "string"],
+  "link": "https://...",   // optional
+  "repo": "https://..."    // optional
+}
+```
+
+`data/experience.json` (array):
+
+```json
+{
+  "role": "string",
+  "company": "string",
+  "start": "Mon YYYY",
+  "end": "Mon YYYY | Present", // optional
+  "summary": "string",
+  "highlights": ["string", "string"] // optional
+}
+```
+
+## Theming
+
+- Theme is toggled via the button in the header. Preference is persisted in `localStorage` as `theme-preference`.
+
 <h1 align="center">👋 Hello, I'm <span style="color:#00BFFF">Abhiram Gorrepati</span></h1>
 <h3 align="center">🚀 Full Stack Java Developer | Spring Boot & Angular Specialist | Cloud & Microservices</h3>
 

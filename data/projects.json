@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Project One",
+    "description": "A brief description of the project and what it achieves.",
+    "tech": ["TypeScript", "React", "Node.js"],
+    "link": "https://example.com/your-live-app",
+    "repo": "https://github.com/your-username/your-repo"
+  },
+  {
+    "title": "Project Two",
+    "description": "Another cool project showcasing your skills.",
+    "tech": ["Python", "FastAPI", "PostgreSQL"],
+    "link": "https://example.com/another-app",
+    "repo": "https://github.com/your-username/another-repo"
+  }
+]
